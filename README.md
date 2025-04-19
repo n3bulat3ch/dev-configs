@@ -1,3 +1,3 @@
-# dev-configs
+# Dev configs
 
 🛠️ Dev configs – configuration files for formatting, linting, and Git.
